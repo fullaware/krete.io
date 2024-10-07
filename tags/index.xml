@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on krete.io</title>
+    <link>https://krete.io/tags/</link>
+    <description>Recent content in Tags on krete.io</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://krete.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example</title>
+      <link>https://krete.io/tags/example/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://krete.io/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photoswipe</title>
+      <link>https://krete.io/tags/photoswipe/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://krete.io/tags/photoswipe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bigimg</title>
+      <link>https://krete.io/tags/bigimg/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://krete.io/tags/bigimg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>https://krete.io/tags/math/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://krete.io/tags/math/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>https://krete.io/tags/code/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://krete.io/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://krete.io/tags/markdown/</link>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://krete.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
